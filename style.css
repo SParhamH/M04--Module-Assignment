@@ -1,0 +1,45 @@
+body{
+  background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+  background-repeat:no-repeat;
+}
+#header {
+  background-color: darkred;
+}
+
+#nav {
+  background-color: red;
+}
+
+#content {
+  background-color: darkorange;
+}
+
+#feature {
+  background-color: black;
+  background-image: url("https://wallpaperaccess.com/full/126545.jpg");
+  background-size:contain;
+  background-position: center;
+  background-repeat:no-repeat;
+}
+
+.column1 {
+  background-color: red;
+}
+
+.column2 {
+  background-color: blue;
+}
+
+.column3 {
+  background-color: green;
+}
+
+#footer {
+  background-color: darkred;
+}
+
+h1{
+     font-family: 'KomiRegular';
+     font-weight: normal;
+     font-style: normal;
+}
