@@ -7,7 +7,7 @@ body{
   background-color: #800000;
 }
 
-# nav {
+#nav {
   background-color: #FF0000;
 }
 
@@ -23,15 +23,15 @@ body{
   background-repeat:no-repeat;
 }
 
-.article column1 {
+.column1 {
   background-color: #FF0000;
 }
 
-.article column2 {
+.column2 {
   background-color: #00008B;
 }
 
-.article column3 {
+.column3 {
   background-color: #6B8E23;
 }
 
