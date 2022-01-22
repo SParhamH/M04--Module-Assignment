@@ -2,8 +2,9 @@ body{
   background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
   background-repeat:no-repeat;
 }
+
 #header {
-  background-color: 	#800000;
+  background-color: #800000;
 }
 
 #nav {
@@ -15,7 +16,7 @@ body{
 }
 
 #feature {
-  background-color: #8B0000;
+  background-color: #000000;
   background-image: url("https://wallpaperaccess.com/full/126545.jpg");
   background-size:contain;
   background-position: center;
