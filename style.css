@@ -23,15 +23,15 @@ body{
   background-repeat:no-repeat;
 }
 
-.column1 {
+p.column1 {
   background-color: #FF0000;
 }
 
-.column2 {
+p.column2 {
   background-color: #00008B;
 }
 
-.column3 {
+p.column3 {
   background-color: #6B8E23;
 }
 
