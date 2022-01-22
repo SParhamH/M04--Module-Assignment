@@ -3,19 +3,19 @@ body{
   background-repeat:no-repeat;
 }
 #header {
-  background-color: darkred;
+  background-color: 	#800000;
 }
 
 #nav {
-  background-color: red;
+  background-color: #FF0000;
 }
 
 #content {
-  background-color: darkorange;
+  background-color: #FF4500;
 }
 
 #feature {
-  background-color: black;
+  background-color: #8B0000;
   background-image: url("https://wallpaperaccess.com/full/126545.jpg");
   background-size:contain;
   background-position: center;
@@ -23,19 +23,19 @@ body{
 }
 
 .column1 {
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .column2 {
-  background-color: blue;
+  background-color: #00008B;
 }
 
 .column3 {
-  background-color: green;
+  background-color: #6B8E23;
 }
 
 #footer {
-  background-color: darkred;
+  background-color: #8B0000;
 }
 
 h1{
